@@ -9,3 +9,5 @@
 - AWS S3 Bucket, enable locking with DynamoDB.
 
 - Azure Blob Storage, enable locking with blob permissions / locks.
+
+[text](https://developer.hashicorp.com/terraform/language/backend/remote)
