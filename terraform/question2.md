@@ -10,4 +10,4 @@
 
 - Azure Blob Storage, enable locking with blob permissions / locks.
 
-[text](https://developer.hashicorp.com/terraform/language/backend/remote)
+[Remote Backends Documentation](https://developer.hashicorp.com/terraform/language/backend/remote)
